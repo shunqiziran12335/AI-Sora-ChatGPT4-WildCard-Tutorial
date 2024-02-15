@@ -55,3 +55,5 @@
 ![img](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402131500402.png)
 
 ![img](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402131500402.png)
+
+如果没有注册，购买，充值，https://shunqiziran12335.github.io/chat/
