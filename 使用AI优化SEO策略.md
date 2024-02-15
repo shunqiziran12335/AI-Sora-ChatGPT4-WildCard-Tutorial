@@ -89,3 +89,5 @@
 ![1707911673658](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402141954664.jpg)
 
 ![1707911701289](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402141955508.jpg)
+
+如果没有注册，购买，充值，https://shunqiziran12335.github.io/chat/
