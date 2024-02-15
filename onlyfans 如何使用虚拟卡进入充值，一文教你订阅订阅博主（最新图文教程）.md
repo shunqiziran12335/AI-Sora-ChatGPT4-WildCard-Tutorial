@@ -19,7 +19,7 @@ PS:使用这个链接复制到浏览器打开，享受丝滑开卡，还可享�
 
 ## Onlyfans是什么？
 
-OnlyFans是一个越来越受欢迎的内容订阅服务平台，可以使创作者能够直接从他们的粉丝那里获得收入，也有很多比较好的博主，比如 hongkongdoll 之类的哈哈。
+OnlyFans是一个越来越受欢迎的内容订阅服务平台，可以使创作者能够直接从他们的粉丝那里获得收入，也有很多比较好的博主，
 
 本文将教你如何使用虚拟卡在OnlyFans上充值和订阅博主。
 
@@ -55,11 +55,11 @@ OnlyFans是一个越来越受欢迎的内容订阅服务平台，可以使创作
 
 ![wildcard 虚拟卡](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402141156254.png)
 
-绑定支付信用卡后，就可以去订阅喜欢的博主啦，比如 hongkongdoll 之类的：
+绑定支付信用卡后，就可以去订阅喜欢的博主啦，
 
 ![wildcard 虚拟卡](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402141156183.png)
 
 ## 四、END
 
 欢迎大家使用吧
-
+如果没有注册，购买，充值，https://shunqiziran12335.github.io/chat/
