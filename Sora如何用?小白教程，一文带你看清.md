@@ -1,4 +1,6 @@
-# OpenAI Sora 超强文生视频如何使用：最新详细教程-小白教程
+#  Sora入门指南：【小白教程】一文了解openAI Sora？以及如何看待？
+
+Sora如何用?小白教程-一文带你了解openAI Sora全貌
 
 ## 1.Sora 是什么
 
