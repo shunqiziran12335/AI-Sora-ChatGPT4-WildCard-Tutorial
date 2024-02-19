@@ -10,7 +10,7 @@ Sora如何用?小白教程-一文带你了解openAI Sora全貌
 
 随后在周六（2月17日），负责Sora项目的研究科学家Bill Peebles在社交媒体X上分享了Sora的一项新功能——**可以一次性就同样场景生成多个视角的多段视频**。
 
-![1708250842171](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/1.jpg)Peebles强调，“并不是我们把五个视频拼接在一起，是Sora决定同时将五个不同的视角结合在一起的！”
+![1708317721944](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191357859.jpeg)Peebles强调，“并不是我们把五个视频拼接在一起，是Sora决定同时将五个不同的视角结合在一起的！”
 
 接下来将为您提供关于[小白如何入手Sora](https://shunqiziran12335.github.io/chat/handbook/10.html))的最新详细教程，来让你快速上手。
 
@@ -28,11 +28,11 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 <iframe allowfullscreen="" allow="clipboard-write" title="vimeo Video Player" src="https://player.vimeo.com/video/913331489?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1&amp;h=d6b3d4c2bd#t="></iframe>
 
-![1708253861051](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/2.jpg)
+![a205f672cecbf024e43bac1f4e9269a](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191357053.png)
 
 我完全不知道是如何能实现出来的，官网的解释是：
 
-![](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/3.1.png)
+![1708317789935](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191357895.jpeg)
 
 只能先等他们的技术文档，再来详细看看了。
 
@@ -44,7 +44,7 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 提示：一个美丽的剪影动画展示了一只狼对着月亮嚎叫，感到孤独，直到它找到狼群。
 
-![](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/3.png)
+![1708317811570](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191357312.jpeg)
 
 此时，一匹狼孤独地对着月光长啸，其声悲凉，彰显着它的孤单，直至它终于找到了属于自己的族群。
 
@@ -60,7 +60,7 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 <iframe allowfullscreen="" allow="clipboard-write" title="vimeo Video Player" src="https://player.vimeo.com/video/913133210?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1&amp;h=be057e0e48#t="></iframe>
 
-![1708253878085](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/4.jpg)
+![1708317838959](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191357194.jpeg)
 
 4.Prompt: Historical footage of California during the gold rush.
 
@@ -68,7 +68,7 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 <iframe allowfullscreen="" allow="clipboard-write" title="vimeo Video Player" src="https://player.vimeo.com/video/913131741?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1&amp;h=b1dacaa83a#t="></iframe>
 
-![1708253903976](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/5.jpg)
+![1708317865988](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191358530.jpeg)
 
 5.Prompt: A close up view of a glass sphere that has a zen garden within it. There is a small dwarf in the sphere who is raking the zen garden and creating patterns in the sand.
 
@@ -76,7 +76,7 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 <iframe allowfullscreen="" allow="clipboard-write" title="vimeo Video Player" src="https://player.vimeo.com/video/913133221?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1&amp;h=53d312dac0#t="></iframe>
 
-![1708253938334](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/6.jpg)
+![357edf12a0c56d475fae8b7377ffe83](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191358255.png)
 
 6.Prompt: A cartoon kangaroo disco dances.
 
@@ -84,7 +84,7 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 <iframe allowfullscreen="" allow="clipboard-write" title="vimeo Video Player" src="https://player.vimeo.com/video/913131356?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1&amp;h=0d49a63852#t="></iframe>
 
-![1708253953232](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/7.jpg)
+![1708317925469](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191358307.jpeg)
 
 7.Prompt: The camera follows behind a white vintage SUV with a black roof rack as it speeds up a steep dirt road surrounded by pine trees on a steep mountain slope, dust kicks up from it’s tires, the sunlight shines on the SUV as it speeds along the dirt road, casting a warm glow over the scene. The dirt road curves gently into the distance, with no other cars or vehicles in sight. The trees on either side of the road are redwoods, with patches of greenery scattered throughout. The car is seen from the rear following the curve with ease, making it seem as if it is on a rugged drive through the rugged terrain. The dirt road itself is surrounded by steep hills and mountains, with a clear blue sky above with wispy clouds.
 
@@ -92,7 +92,7 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 <iframe allowfullscreen="" allow="clipboard-write" title="vimeo Video Player" src="https://player.vimeo.com/video/913132493?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1&amp;h=efc0bcf645#t="></iframe>
 
-![1708253973473](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/8.jpg)
+![1708317961600](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191359376.jpeg)
 
 8.Prompt: Reflections in the window of a train traveling through the Tokyo suburbs.
 
@@ -100,7 +100,7 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 <iframe allowfullscreen="" allow="clipboard-write" title="vimeo Video Player" src="https://player.vimeo.com/video/913132696?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1&amp;h=e459e90255#t="></iframe>
 
-![1708253988606](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/9.jpg)
+![1708317982873](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191359601.jpeg)
 
 9.Prompt: Tour of an art gallery with many beautiful works of art in different styles.
 
@@ -108,7 +108,7 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 <iframe allowfullscreen="" allow="clipboard-write" title="vimeo Video Player" src="https://player.vimeo.com/video/913130624?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1&amp;h=9b963f52eb#t="></iframe>
 
-![1708256140003](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/10.jpeg)
+![1708318013333](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191359215.jpeg)
 
 10.Prompt: A grandmother with neatly combed grey hair stands behind a colorful birthday cake with numerous candles at a wood dining room table, expression is one of pure joy and happiness, with a happy glow in her eye. She leans forward and blows out the candles with a gentle puff, the cake has pink frosting and sprinkles and the candles cease to flicker, the grandmother wears a light blue blouse adorned with floral patterns, several happy friends and family sitting at the table can be seen celebrating, out of focus. The scene is beautifully captured, cinematic, showing a 3/4 view of the grandmother and the dining room. Warm color tones and soft lighting enhance the mood.
 
@@ -116,7 +116,7 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 <iframe allowfullscreen="" allow="clipboard-write" title="vimeo Video Player" src="https://player.vimeo.com/video/913353528?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1&amp;h=d1479c4c6c#t="></iframe>
 
-![1708254026387](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/11.png)
+![c00154d1c415e6c81756ae974c4d4de](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191359018.png)
 
 11.Prompt: A Chinese Lunar New Year celebration video with Chinese Dragon.
 
@@ -128,7 +128,7 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 ## 3.Sora的弱点
 
-![1708252534314](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/13.jpg)
+![baa3c5773cbe3cdc8444366d26b1b67](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191359414.png)
 
 Sora当前存在的弱点，OpenAI也是直接指出它可能**难以准确模拟复杂场景的物理原理，并且可能无法理解因果关系**。
 
@@ -136,7 +136,7 @@ Sora当前存在的弱点，OpenAI也是直接指出它可能**难以准确模�
 
 
 
-![img](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/14.png)
+![1708318134756](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191359152.jpeg)
 
 该模型有会可能**混淆提示的空间细节**，例如混淆左右，可能**难以精确描述随着时间推移发生的事件**，例：遵循特定的相机轨迹。
 
@@ -150,15 +150,15 @@ Sora是文本生成视频的模型，openai 下面还有超级火爆的ChatGPT, 
 
 以下是ChatGPT的使用例子，你可以根据特定的领域向他提问，他会给你相应的思路，并且回答问题，使用方法是拥有一个ChatGPT账号，还没有注册的朋友可以点击[2024年2月最新,手把手教你如何为ChatGPT4.0充值，升级及使用技巧(订阅指南+图文教程) | AI教程 ](https://shunqiziran12335.github.io/chat/)
 
-![1708252989407](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/15.jpg)
+![7d9b4ee9c66bd17e001fd41252e4b54](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191400790.png)
 
 
 
-![1708253649995](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/16.jpg)
+![baf1fc15c1dfda75041410619062ce2](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191400268.png)
 
-![1708253084408](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/17.jpg)ChatGPT4.0 可以给你图文结合的回答：
+![1708318240889](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191400740.jpeg)ChatGPT4.0 可以给你图文结合的回答：
 
-![1708253144275](./../../../../../../Users/Lenovo/Desktop/%E5%89%AF%E4%B8%9AchatGPT4.0/Sora%E5%9B%BE%E7%89%87/18.jpg)
+![c2bc11c92ae956833c2e9b54a7b2915](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191400942.png)
 
 ## 4\. Sora 的常见问题
 
