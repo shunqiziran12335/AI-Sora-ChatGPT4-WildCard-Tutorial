@@ -2,7 +2,7 @@
 
 今天简单介绍一下chatGPT4购买后的基本功能，带你快速了解一些小技巧
 
-如果不会注册看这条[2024年2月最新手把手教你ChatGPT4.0升级流程及使用技巧 ](https://shunqiziran12335.github.io/chat/#_2024年2月最新手把手教你chatgpt4-0升级流程及使用技巧)
+[【图文教程】ChatGPT4.0如何使用？如何充值，如何升级？有什么使用技巧？需要以什么原则来使用？（附上WildCard邀请码GPT321,享受开通优惠) | AI教程 (ai-sora-chat.com)](https://ai-sora-chat.com/#/)
 
 首先是进入chatGPT4.0界面，了解基本的菜单面板
 
