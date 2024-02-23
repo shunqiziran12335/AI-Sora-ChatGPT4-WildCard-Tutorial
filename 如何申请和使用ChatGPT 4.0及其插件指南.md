@@ -56,5 +56,5 @@
 * 清晰描述您的开发计划和应用案例。
 * 提交申请后，耐心等待审核，获取API密钥以开始使用。
 * 
-
-[2024年2月最新,手把手教![1707806736242](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402131503145.png)![1707806755138](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402131503165.png)![1707806772709](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402131503158.png)![1707806796189](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402131503182.png)你ChatGPT4.0升级流程及使用技巧(图文教程) ](https://shunqiziran12335.github.io/chat/)
+(https://chatd.oss-us-east-1.aliyuncs.com/img2/202402131503145.png)![1707806755138](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402131503165.png)![1707806772709](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402131503158.png)![1707806796189](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402131503182.png)
+[【图文教程】ChatGPT4.0如何使用？如何充值，如何升级？有什么使用技巧？需要以什么原则来使用？（附上WildCard邀请码GPT321,享受开通优惠) | AI教程 (ai-sora-chat.com)](https://ai-sora-chat.com/#/)
