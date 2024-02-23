@@ -62,4 +62,4 @@ OnlyFans是一个越来越受欢迎的内容订阅服务平台，可以使创作
 ## 四、END
 
 欢迎大家使用吧
-如果没有注册，购买，充值，https://shunqiziran12335.github.io/chat/
+[【图文教程】ChatGPT4.0如何使用？如何充值，如何升级？有什么使用技巧？需要以什么原则来使用？（附上WildCard邀请码GPT321,享受开通优惠) | AI教程 (ai-sora-chat.com)](https://ai-sora-chat.com/#/)
