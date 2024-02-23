@@ -50,8 +50,7 @@ ___
 
 5. 把在第一步购买到的虚拟信用卡卡号、有效期、CVV码等信息填写到对应的地方。
 
-   如果还是不太理解注册[WildCard网站](https://bewildcard.com/i/GPT321)流程，看这篇[详解WildCard注册流程，ChatGPT4.0升级](https://shunqiziran12335.github.io/chat/)
-
+   如果还是不太理解注册[【图文教程】ChatGPT4.0如何使用？如何充值，如何升级？有什么使用技巧？需要以什么原则来使用？（附上WildCard邀请码GPT321,享受开通优惠) | AI教程 (ai-sora-chat.com)](https://ai-sora-chat.com/#/)
 6. ![1708430505724](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402202015933.jpeg)
 
 ![图片](data:image/svg+xml,<%3Fxml version=%271.0%27 encoding=%27UTF-8%27%3F><svg width=%271px%27 height=%271px%27 viewBox=%270 0 1 1%27 version=%271.1%27 xmlns=%27http://www.w3.org/2000/svg%27 xmlns:xlink=%27http://www.w3.org/1999/xlink%27><title></title><g stroke=%27none%27 stroke-width=%271%27 fill=%27none%27 fill-rule=%27evenodd%27 fill-opacity=%270%27><g transform=%27translate(-249.000000, -126.000000)%27 fill=%27%23FFFFFF%27><rect x=%27249%27 y=%27126%27 width=%271%27 height=%271%27></rect></g></g></svg>)6\. 填写完信息之后，点击确认订阅就可以啦！接下来你就可以享受使用midjourney生成自己需要的精美图片了。
