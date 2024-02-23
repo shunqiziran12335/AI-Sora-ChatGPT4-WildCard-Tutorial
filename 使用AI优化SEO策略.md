@@ -90,4 +90,5 @@
 
 ![1707911701289](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402141955508.jpg)
 
-如果没有注册，购买，充值，https://shunqiziran12335.github.io/chat/
+如果没有注册，购买，充值，[【图文教程】ChatGPT4.0如何使用？如何充值，如何升级？有什么使用技巧？需要以什么原则来使用？（附上WildCard邀请码GPT321,享受开通优惠) | AI教程 (ai-sora-chat.com)](https://ai-sora-chat.com/#/)
+
