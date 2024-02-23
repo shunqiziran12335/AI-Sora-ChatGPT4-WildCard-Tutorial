@@ -28,7 +28,7 @@ Wildcard专门提供虚拟信用卡服务，该平台特别为OpenAI的支付需
 
 这个网站的界面设计友好，，使用起来直观，减少了其他平台复杂的操作流程和繁琐的收费套餐选择，节省了时间陈哥不能。在[WildCard](https://bewildcard.com/i/GPT321)上，你只需按照简单的步骤操作，享受丝滑上手
 
-如果看起来，感觉没法入手看这篇文章：[ChatGPT4.0如何购买手把手教你，升级及使用技巧(订阅指南+图文教程)[2024年2月最新\]](https://shunqiziran12335.github.io/chat/)
+如果看起来，感觉没法入手看这篇文章：[【图文教程】ChatGPT4.0如何使用？如何充值，如何升级？有什么使用技巧？需要以什么原则来使用？（附上WildCard邀请码GPT321,享受开通优惠) | AI教程 (ai-sora-chat.com)](https://ai-sora-chat.com/#/)
 
 **四、WildCard工具和功能介绍？**
 
