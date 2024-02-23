@@ -156,8 +156,7 @@
 
 **Sora是文本生成视频的模型，openai 下面还有超级火爆的ChatGPT, AI 对话，以及文本生图的强大功能，可以直接使用：**
 
-**以下是ChatGPT的使用例子，你可以根据特定的领域向他提问，他会给你相应的思路，并且回答问题，使用方法是拥有一个ChatGPT账号，还没有注册的朋友可以点击**[2024年2月最新,手把手教你如何为ChatGPT4.0充值，升级及使用技巧(订阅指南+图文教程) | AI教程 ](https://shunqiziran12335.github.io/chat/)
-
+**以下是ChatGPT的使用例子，你可以根据特定的领域向他提问，他会给你相应的思路，并且回答问题，使用方法是拥有一个ChatGPT账号，[【图文教程】ChatGPT4.0如何使用？如何充值，如何升级？有什么使用技巧？需要以什么原则来使用？（附上WildCard邀请码GPT321,享受开通优惠) | AI教程 (ai-sora-chat.com)](https://ai-sora-chat.com/#/)
 ![7d9b4ee9c66bd17e001fd41252e4b54](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191400790.png)
 
 ![baf1fc15c1dfda75041410619062ce2](https://chatd.oss-us-east-1.aliyuncs.com/img2/202402191400268.png)
