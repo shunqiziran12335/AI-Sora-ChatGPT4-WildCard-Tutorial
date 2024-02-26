@@ -44,7 +44,10 @@ https://ai-sora-chat.com/#/handbook/After-packaging-and-deploying-VuePress-the-s
 https://ai-sora-chat.com/#/handbook/How-to-quickly-use-ChatGPT4-in-China.html
 23.快捷高效的带你申请chatgpt4.0的成功秘诀和技巧!原来升级ChatGPT4如此简单！！！
 https://ai-sora-chat.com/#/handbook/The-Success-Secrets-and-Tips-for-ChatGPT4.0-Applications.html
+24.这本书可以带你快速学会ChatGPT，从注册到具体应用场景
+https://ai-sora-chat.com/#/handbook/Take-you-to-quickly-learn-ChatGPT.html
 AI教程
+人工智能教程：
 ChatGPT4教程
 WildCard教程
 Tutorial教程
