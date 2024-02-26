@@ -40,6 +40,10 @@ https://ai-sora-chat.com/#/handbook/Perform-DNS-resolution-on-the-domain-name-pu
 https://ai-sora-chat.com/#/handbook/Github-domain-name-frequently-changes-binding-and-fails.html
 21.使用Vuepress+Github搭建博客更改域名后样式错乱
 https://ai-sora-chat.com/#/handbook/After-packaging-and-deploying-VuePress-the-style-is-black-and-white-in-disorder.html
+22.国内如何快捷使用ChatGPT4.0，简单快捷！！
+https://ai-sora-chat.com/#/handbook/How-to-quickly-use-ChatGPT4-in-China.html
+23.快捷高效的带你申请chatgpt4.0的成功秘诀和技巧!原来升级ChatGPT4如此简单！！！
+https://ai-sora-chat.com/#/handbook/The-Success-Secrets-and-Tips-for-ChatGPT4.0-Applications.html
 AI教程
 ChatGPT4教程
 WildCard教程
