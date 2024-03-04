@@ -100,6 +100,12 @@ https://ai-sora-chat.com/#/handbook/Machine-learning-algorithms-essential-tools-
 https://ai-sora-chat.com/#/handbook/ChatGPT4-Artificial-Intelligence-Training.html
 51.什么是ChatGPT提示词工程师
 https://ai-sora-chat.com/#/handbook/What-is-ChatGPT-prompt-word-engineer.html
+52.ChatGPT4使用技巧全攻略（附WildCard邀请码https://bewildcard.com/i/GPT321）
+https://ai-sora-chat.com/#/handbook/ChatGPT4-usage-tips-guide.html
+53.ChatGPT4魔法指南：轻松掌握使用技巧（附WildCard邀请码https://bewildcard.com/i/GPT321）
+https://ai-sora-chat.com/#/handbook/ChatGPT4-Magic-Guide-Easy-to-Master-Usage-Tips.html
+54.ChatGPT4秘籍大公开：让你成为高手（附WildCard邀请码https://bewildcard.com/i/GPT321）
+https://ai-sora-chat.com/#/handbook/ChatGPT4-Secret-Code-Publicity-Make-You-a-Master.html
 AI教程
 人工智能教程：
 ChatGPT4教程
