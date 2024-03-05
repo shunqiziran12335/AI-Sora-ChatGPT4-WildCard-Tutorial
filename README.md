@@ -106,6 +106,10 @@ https://ai-sora-chat.com/#/handbook/ChatGPT4-usage-tips-guide.html
 https://ai-sora-chat.com/#/handbook/ChatGPT4-Magic-Guide-Easy-to-Master-Usage-Tips.html
 54.ChatGPT4秘籍大公开：让你成为高手（附WildCard邀请码https://bewildcard.com/i/GPT321）
 https://ai-sora-chat.com/#/handbook/ChatGPT4-Secret-Code-Publicity-Make-You-a-Master.html
+55.ChatGPT4保姆级全攻略，账号开通轻松搞定！
+https://ai-sora-chat.com/#/handbook/ChatGPT4-nanny-level-full-guide-eas-to-open-account.html
+56.ChatGPT4技巧大揭秘！WildCard渠道详情
+https://ai-sora-chat.com/#/handbook/ChatGPT4-Tip-Reveals-WildCard-channel-details.html
 AI教程
 人工智能教程：
 ChatGPT4教程
