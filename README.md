@@ -110,6 +110,8 @@ https://ai-sora-chat.com/#/handbook/ChatGPT4-Secret-Code-Publicity-Make-You-a-Ma
 https://ai-sora-chat.com/#/handbook/ChatGPT4-nanny-level-full-guide-eas-to-open-account.html
 56.ChatGPT4技巧大揭秘！WildCard渠道详情
 https://ai-sora-chat.com/#/handbook/ChatGPT4-Tip-Reveals-WildCard-channel-details.html
+57.开启未来！Claude3-GPT4全面揭秘
+https://ai-sora-chat.com/#/Claude3-GPT4/Open-the%20future-Claude3-GPT4-fully-reveals-secrets.html
 AI教程
 人工智能教程：
 ChatGPT4教程
